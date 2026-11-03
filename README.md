@@ -86,5 +86,5 @@ My own measurement (lab 07): on 1000 numbers in reverse order, bubble/selection/
 
 ## Author
 
-**Dhia Alhaq Saleh Al-Hindrish** — BS Software Engineering, Superior University, Lahore
+**Dheya Alhag** — BS Software Engineering, Superior University, Lahore
 GitHub: [@dhiaalhaq7979](https://github.com/dhiaalhaq7979)
